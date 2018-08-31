@@ -27,6 +27,7 @@ body {
     padding-bottom: 2px;
 }
 
+
 .opening_font {
     color: white;
     font-family: "Merriweather";
@@ -57,6 +58,7 @@ ul a img:hover {
     left: 48%;
     transform: translate(-50%, -50%);
     list-style: none;
+    background: transparent;
 }
 
 .button_code {
@@ -658,12 +660,12 @@ a{
 
 
 .header11{
-    background-image: url("https://lh5.googleusercontent.com/oj97G5FkaDGyhpjnXUPkiPazRXLBrWMcnj5THyU04bi7D4Ba8Z-9tXuoDg6e6fa8DebDH-Ow0ew6J3DfR7ppgrAOwl297AJ3gFoMTOz8xLLL5MNU-Tq5toepwLLTKfcXSngfcWrS");
+    background-image: url("https://lh5.googleusercontent.com/p-Im4wwSRKgsNBQU2DDHrAc2uwAJ8bRLVmQ5fyRyvllT5469uvm5B7TRHzshejsHaFdkW7O-uGbkKDDE9ykxZkfD8y2GNI2ch2BI6TSJ-LIj-O1wTp9WVKsyXJd1zzUBwMgr4hk8");
     padding: 20px 0;
     font-size: 150%;
     font-weight: 300;
     text-align: center;
-    color: whitesmoke;
+    color: rgb(1, 43, 121);
     /* font: italic; */
     font-family: 'Times New Roman', Times, serif;
     max-width: 100%;
@@ -672,7 +674,7 @@ a{
     padding: 16px;
 }
 .header11 h2{
-    color: whitesmoke;
+    color: rgb(1, 43, 121);
     font-size: 80px;
     margin-top: 5%;
     /* font: bold 70px/30px Georgia, serif; */
@@ -712,6 +714,27 @@ a{
     font: bold italic 30px/30px Georgia, serif;
 }
 .profile1 h2{
+    margin-top: 3%;
+    font: italic 30px/30px Georgia, serif;
+}
+.profile2{
+    background-color:rgb(199, 199, 199);
+    padding: 20px 0;
+    font-size: 150%;
+    font-weight: 300;
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 100%;
+    height: 100px;
+    margin: 10px auto;
+    padding: 16px;
+}
+.profile2 h1{
+    margin-top: 2%;
+    font: bold italic 30px/30px Georgia, serif;
+}
+.profile2 h2{
     margin-top: 3%;
     font: italic 30px/30px Georgia, serif;
 }
@@ -856,3 +879,16 @@ input{
 	-webkit-transform: translateY(25%) rotateX(-35deg);
 	transform: translateY(25%) rotateX(-35deg);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
