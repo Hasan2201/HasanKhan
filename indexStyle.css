@@ -693,7 +693,7 @@ a{
 .header11 h2:hover{
     background-color: gray;
 }
-.form-style-6 h1:hover{
+/* .form-style-6 h1:hover{
     background-color: gray;
 }
 .profile1{
@@ -737,7 +737,7 @@ a{
 .profile2 h2{
     margin-top: 3%;
     font: italic 30px/30px Georgia, serif;
-}
+} */
 
 
 
@@ -749,8 +749,6 @@ body{   background:url('http://cs625217.vk.me/v625217712/1a11c/0QgZ5V0MWEo.jpg')
 
 .lower{
   width:88%;
-  /* margin-top:  */
-  /* margin-left: 18%; */
   padding:50px;
   background:rgb(199, 199, 199);
   opacity:0.8;
